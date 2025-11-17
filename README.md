@@ -10,5 +10,5 @@ Contribuições:
 - Joseph focou na montagem física do protótipo
 - Rebeca focou no código da conexao MQTT
 - Lorenzo focou no código dos farois
-- Pedro focou na montagem
+- Pedro focou na montagem do protótipo
 - Marcus focou no HiveMQ
